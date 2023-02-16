@@ -3,7 +3,7 @@
 
 #### Oiê,
 <p align="left">
-Conheci o mundo de "coisas coloridas" que é a programação, comecei estudar por conta própria e, desde então, tenho desenvolvido projetos de desafios como hobby. Agora, busco uma oportunidade para aprimorar minhas habilidades em desenvolvimento e contribuir com meus conhecimentos por tecnologia. Estou ansiosa para aprender e crescer como desenvolvedora e aplicar minhas habilidades para criar soluções inovadoras e eficazes.
+Me chamo Andreza, e sou uma estudante curiosa que mergulhou no mundo das "coisas coloridas" que é a  programação e está adorando a experiência. Comecei a estudar por conta própria e tenho desenvolvido projetos desafiadores como hobby. Agora, estou em busca de uma oportunidade para aprimorar minhas habilidades em desenvolvimento e contribuir com meus conhecimentos em tecnologia.
 
 </p>
 
